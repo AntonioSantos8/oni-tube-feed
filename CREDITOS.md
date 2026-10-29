@@ -59,7 +59,6 @@ Todos os vídeos são da [Pexels](https://www.pexels.com), sob a [Licença Pexel
 | viral | Dog Barking and Wagging its Tail | SN CHE | https://www.pexels.com/video/a-dog-chained-to-a-wooden-kennel-barking-and-wagging-its-tail-16257945/ |
 | viral | Two Dogs in Strollers | Tati Kiri | https://www.pexels.com/video/a-dog-in-a-stroller-and-another-dog-in-a-stroller-19766484/ |
 | viral | Dog During the Shower and After | Anna Bondarenko | https://www.pexels.com/video/snapshots-of-dog-during-shower-and-after-10914655/ |
-| viral | Pomeranian Dressed as Santa | Anna Bondarenko | https://www.pexels.com/video/pomeranian-dog-dressed-as-santa-under-christmas-tree-10622029/ |
 | viral | Dog Chewing a Squeaky Toy | Jane Mikhaylovsky | https://www.pexels.com/video/a-playful-dog-chewing-a-squeaky-toy-13260818/ |
 | viral | Cat Talking on the Bed | J L | https://www.pexels.com/video/a-cat-is-sitting-on-a-bed-with-its-mouth-open-20420481/ |
 | viral | Dog in a Green Outfit on the Table | Chris Brandt | https://www.pexels.com/video/a-dog-wearing-a-green-outfit-on-a-table-18216633/ |
