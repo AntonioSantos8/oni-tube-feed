@@ -44,3 +44,33 @@ Todos os vídeos são da [Pexels](https://www.pexels.com), sob a [Licença Pexel
 | comida_jp | Chopsticks over a sushi roll | Kuiyibo Campos | https://www.pexels.com/video/a-person-holding-chopsticks-over-a-sushi-roll-19387193/ |
 | comida_jp | Kaiten-Zushi Sushi Bar | Ali Alcantara | https://www.pexels.com/video/traditional-kaiten-zushi-sushi-bar-experience-31387687/ |
 | comida_jp | Burning Sushi | Ivan S | https://www.pexels.com/video/video-of-a-burning-sushi-8908508/ |
+| satisfying | Pouring Cold Water into a Cup | Paco Alamo | https://www.pexels.com/video/person-pouring-a-cold-water-into-a-cup-4999545/ |
+| satisfying | Making a Ceramic Bowl on the Potters Wheel | Amin Hope | https://www.pexels.com/video/making-ceramic-bowl-on-potters-wheel-11761089/ |
+| satisfying | Making a Plate on the Pottery Wheel | Mike Derkach | https://www.pexels.com/video/an-artisan-making-a-plate-on-the-pottery-wheel-12902440/ |
+| satisfying | Sizzling Meat in a Frying Pan | Qian Yuhang | https://www.pexels.com/video/person-cooking-meat-in-frying-pan-11131967/ |
+| satisfying | Close up of Cooking | Anirudh Challa | https://www.pexels.com/video/close-up-of-cooking-14065650/ |
+| satisfying | Food in Boiling Water | Qian Yuhang | https://www.pexels.com/video/close-up-on-food-in-boiling-water-11580342/ |
+| satisfying | Popping the Bubble Wrap | cottonbro studio | https://www.pexels.com/video/a-woman-popping-the-bubble-wrap-6150666/ |
+| satisfying | ASMR with a Plastic Pouch | cottonbro studio | https://www.pexels.com/video/woman-doing-an-asmr-using-a-plastic-pouch-6144272/ |
+| satisfying | Bubble Wrap Popping | cottonbro studio | https://www.pexels.com/video/person-popping-a-bubble-wrap-6150664/ |
+| satisfying | Crinkly Plastic Pouch ASMR | cottonbro studio | https://www.pexels.com/video/a-woman-doing-asmr-using-a-plastic-pouch-6144276/ |
+| satisfying | Satisfying Bubble Wrap Pops | cottonbro studio | https://www.pexels.com/video/a-woman-popping-a-bubble-wrap-6144416/ |
+| satisfying | Nail Polish in a Plastic Pouch | cottonbro studio | https://www.pexels.com/video/woman-putting-a-nail-polish-inside-a-plastic-pouch-6144278/ |
+| viral | Dog Barking and Wagging its Tail | SN CHE | https://www.pexels.com/video/a-dog-chained-to-a-wooden-kennel-barking-and-wagging-its-tail-16257945/ |
+| viral | Two Dogs in Strollers | Tati Kiri | https://www.pexels.com/video/a-dog-in-a-stroller-and-another-dog-in-a-stroller-19766484/ |
+| viral | Dog During the Shower and After | Anna Bondarenko | https://www.pexels.com/video/snapshots-of-dog-during-shower-and-after-10914655/ |
+| viral | Pomeranian Dressed as Santa | Anna Bondarenko | https://www.pexels.com/video/pomeranian-dog-dressed-as-santa-under-christmas-tree-10622029/ |
+| viral | Dog Chewing a Squeaky Toy | Jane Mikhaylovsky | https://www.pexels.com/video/a-playful-dog-chewing-a-squeaky-toy-13260818/ |
+| viral | Cat Talking on the Bed | J L | https://www.pexels.com/video/a-cat-is-sitting-on-a-bed-with-its-mouth-open-20420481/ |
+| viral | Dog in a Green Outfit on the Table | Chris Brandt | https://www.pexels.com/video/a-dog-wearing-a-green-outfit-on-a-table-18216633/ |
+| viral | Goats Munching Grass | SN CHE | https://www.pexels.com/video/goats-eating-grass-near-trees-14251373/ |
+| viral | Street Cat | Peggy Anke | https://www.pexels.com/video/cat-on-the-street-4427731/ |
+| viral | Chatty Parrot | Liza Dolin Bugtong | https://www.pexels.com/video/birds-parrot-4168878/ |
+| viral | Kittens | Zeynep Gul Ceylan | https://www.pexels.com/video/yavru-kediler-18966745/ |
+| viral | Cat and Dog Best Friends | Ahmet Akkaya | https://www.pexels.com/video/a-cat-and-a-dog-laying-on-the-ground-19891724/ |
+| viral | Bella | Betul Balci | https://www.pexels.com/video/bella-16463995/ |
+| viral | Small Dog on a Bench | Rin Gakusho | https://www.pexels.com/video/a-small-brown-dog-sitting-on-a-bench-20648415/ |
+| mukbang | Baking Pizza Margherita | Rene Strgar | https://www.pexels.com/video/baking-sourdough-pizza-margherita-in-a-portable-gozney-pizza-oven-17848826/ |
+| mukbang | Cutting a Crispy Sourdough Pizza | Rene Strgar | https://www.pexels.com/video/close-up-of-a-person-cutting-sourdough-pizza-15815575/ |
+| comida_jp | Stirring Noodles with Chopsticks | Qian Yuhang | https://www.pexels.com/video/man-stirring-noodles-with-chopsticks-12837558/ |
+| comida_jp | Preparing a Noodle Meal | Qian Yuhang | https://www.pexels.com/video/man-preparing-a-noodle-meal-12837559/ |
